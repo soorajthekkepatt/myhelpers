@@ -1,0 +1,9 @@
+Basic commands
+==============
+set file permission - sudo chmod -R 777 html.zip
+
+ssh
+====
+login via ssh - ssh -i "pemfile.pem" username
+change foldername using ssh - mv html.zip  html-oldbackup.zip
+make zip :- zip -r filename.zip foldername/
